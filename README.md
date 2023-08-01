@@ -1,0 +1,1 @@
+Checker on VM test!
